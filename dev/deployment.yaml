@@ -14,6 +14,6 @@ spec:
     spec:
       containers: 
         - name: myapp
-          image: mzabalza/argocd-demo:1.0
+          image: mzabalza/argocd-demo:2.0
           ports:
             - containerPort: 8080
